@@ -2,7 +2,7 @@
   "name": "homework_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YaroslavKH1990.github.io/React-course",
+  "homepage": "https://YaroslavKH1990.github.io/React-HW-01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
