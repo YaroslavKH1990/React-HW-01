@@ -1,0 +1,2 @@
+(this.webpackJsonphomework_1=this.webpackJsonphomework_1||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var o=n(2),c=n(0),r=n.n(c),s=n(3),i=function(){};n.n(s).a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.768a0022.chunk.js.map
