@@ -1,0 +1,20 @@
+.item {
+  display: flex;
+  width: 300px;
+  margin-bottom: 7px;
+  border-radius: 1px;
+}
+
+.online {
+  background-color: green;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.offline {
+  background-color: red;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
